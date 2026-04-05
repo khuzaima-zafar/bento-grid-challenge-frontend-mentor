@@ -11,7 +11,8 @@ Users should be able to:
 * View the optimal layout for the interface depending on their device's screen size
 
 ### Screenshot
-<img width="1280" height="1024" alt="Screenshot 2026-04-01 045717" src="https://github.com/user-attachments/assets/fbbb2f1e-9960-441c-861e-774722eeae0a" />
+
+<img width="1261" height="858" alt="preview" src="https://github.com/user-attachments/assets/a664d2f2-dd2f-4ae0-8d86-26f01ee9c962" />
 
 
 
